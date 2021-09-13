@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.64d0d7b8.chunk.css",
+    "main.js": "/Website/static/js/main.14ffc29f.chunk.js",
+    "main.js.map": "/Website/static/js/main.14ffc29f.chunk.js.map",
+    "runtime-main.js": "/Website/static/js/runtime-main.b290d070.js",
+    "runtime-main.js.map": "/Website/static/js/runtime-main.b290d070.js.map",
+    "static/css/2.f2512455.chunk.css": "/Website/static/css/2.f2512455.chunk.css",
+    "static/js/2.92307793.chunk.js": "/Website/static/js/2.92307793.chunk.js",
+    "static/js/2.92307793.chunk.js.map": "/Website/static/js/2.92307793.chunk.js.map",
+    "static/js/3.7ff68ce9.chunk.js": "/Website/static/js/3.7ff68ce9.chunk.js",
+    "static/js/3.7ff68ce9.chunk.js.map": "/Website/static/js/3.7ff68ce9.chunk.js.map",
+    "index.html": "/Website/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Website/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.64d0d7b8.chunk.css.map": "/Website/static/css/main.64d0d7b8.chunk.css.map",
+    "static/js/2.92307793.chunk.js.LICENSE.txt": "/Website/static/js/2.92307793.chunk.js.LICENSE.txt",
+    "static/media/lilly.75fc104a.jpg": "/Website/static/media/lilly.75fc104a.jpg",
+    "static/media/lillyLogo.dba2d9bd.jpg": "/Website/static/media/lillyLogo.dba2d9bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b290d070.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.92307793.chunk.js",
+    "static/css/main.64d0d7b8.chunk.css",
+    "static/js/main.14ffc29f.chunk.js"
+  ]
+}
